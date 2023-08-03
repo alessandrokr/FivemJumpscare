@@ -1,5 +1,7 @@
 # Jumpscare script for FiveM  
 Usage:  
+Download [on the release page](https://github.com/namechangezero/fivem-jumpscare/releases/tag/prerelease_alpha_v1) and clicking under Assets on Source Code (zip).  
+Extract the zip (if you don't know how google how to extract a zip lol)  
 After downloading rename the folder "fivem-jumpscare" to "jumpscare", put it into your resources.
 Add  
 ```ensure jumpscare``` to your server.cfg  
