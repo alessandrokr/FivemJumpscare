@@ -13,5 +13,4 @@ Also you can add your own jumpscare video by putting the mp4 file into the asset
 ```refresh``` and after that
 ```ensure jumpscare```  
 # ATTENTION:  
-This is still under development and will be fully released on August 5th 2023. Until there some features might not work properly but it should do the basic work.  
-Also before using read the Usage on top.
+This is still under development and could contain bugs.
